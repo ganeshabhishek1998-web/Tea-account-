@@ -1,0 +1,6 @@
+{
+  "name": "Tea Account Price Details",
+  "description": "Tea sales, daily accounts, and payment balance tracking for tea shops and stalls.",
+  "prompt": "Rewrite Tea Account Price Details as a React application preserving core features and business logic",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
